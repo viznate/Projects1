@@ -152,6 +152,9 @@ m:
         cout << "\n\n Remaining Chicken: " << Qchicken-Schicken;
         cout <<"\n\n Total Chicken collection for the day: " << Total_chicken;
 
+        cout << "\n\n\n Total Collection for the day: " << Total_rooms+Total_burger+Total_pasta+Total_noodles+Total_shake+Total_chicken;
+        break;
+
         case 8:
         exit(0);
 
